@@ -15,5 +15,5 @@
 商品详情  
 分享商品海报
 扫描二维码查看实例：  
-![](http://wx.qzl88.com/img/15.png)
+![](http://wx.qzl88.com/img/demo.jpg)
 打赏获取最新代码:QQ：386482480  
