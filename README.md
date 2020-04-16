@@ -15,5 +15,5 @@
 分享商品海报
 
 demo实例：  
-![](http://wx.qzl88.com/img/14.png)
+![](http://wx.qzl88.com/img/15.png)
 打赏获取最新代码:QQ：386482480  
